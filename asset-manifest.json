@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-assignment/static/css/main.fbd74313.css",
+    "main.js": "/todo-assignment/static/js/main.a5075bfc.js",
+    "index.html": "/todo-assignment/index.html",
+    "main.fbd74313.css.map": "/todo-assignment/static/css/main.fbd74313.css.map",
+    "main.a5075bfc.js.map": "/todo-assignment/static/js/main.a5075bfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbd74313.css",
+    "static/js/main.a5075bfc.js"
+  ]
+}
